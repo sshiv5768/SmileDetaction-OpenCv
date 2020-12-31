@@ -1,0 +1,2 @@
+Opencv
+Python 3.8
